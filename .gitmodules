@@ -1,0 +1,3 @@
+[submodule "Testing3"]
+	path = Testing3
+	url = https://github.com/pmisinsk/Testing3.git
